@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MohamedAkeelK
 - 👀 I’m interested in becoming a software developer with a growing and innovative company.
-- 🌱 I currently have my assosiates in computer science.
 - 💞️ I’m looking to collaborate on any projects to further my learning.
