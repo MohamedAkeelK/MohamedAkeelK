@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @MohamedAkeelK
-- 👀 I’m interested in becoming a software developer with a growing and innovative company.
-- 💞️ I’m looking to collaborate on any projects to further my learning.
+- 💞️ I’m looking to collaborate on anything!
