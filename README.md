@@ -15,7 +15,8 @@
 </div>
 
 <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m @MohamedAkeelK</h1>
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- <p> 💞️ I’m looking to collaborate on anything! </p> -->
 
