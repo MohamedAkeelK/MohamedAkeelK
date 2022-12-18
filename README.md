@@ -20,7 +20,6 @@
 
 <!-- <p> 💞️ I’m looking to collaborate on anything! </p> -->
 
-
 <!-- <div>
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" height="300"/>
 </div>
