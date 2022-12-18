@@ -13,10 +13,8 @@
     <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<hr/>
 
 <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m @MohamedAkeelK</h1>
-<hr/>
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- <p> 💞️ I’m looking to collaborate on anything! </p> -->
@@ -43,12 +41,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<hr/>
   
   ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAkeelK&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<hr/>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAkeelK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
