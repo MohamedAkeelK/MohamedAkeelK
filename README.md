@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=ohamedAkeelK&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="badges">
