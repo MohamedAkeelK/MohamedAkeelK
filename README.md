@@ -14,6 +14,9 @@
 </div>
 
 
+<h1>
+  👋 Hi, I’m @MohamedAkeelK
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 👋 Hi, I’m @MohamedAkeelK
-- 💞️ I’m looking to collaborate on anything!
+<p> 💞️ I’m looking to collaborate on anything! </p>
