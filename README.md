@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ohamedAkeelK&style=flat-square&color=blue" alt=""/>
@@ -18,3 +18,8 @@
 </h1>
 
 <p> 💞️ I’m looking to collaborate on anything! </p>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
